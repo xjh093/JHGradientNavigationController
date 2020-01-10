@@ -1,0 +1,2 @@
+# JHGradientNavigationController
+导航滑动渐变效果
